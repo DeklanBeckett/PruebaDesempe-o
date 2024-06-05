@@ -1,0 +1,6 @@
+@PruebaDesempeño_HostAddress = http://localhost:5202
+
+GET {{PruebaDesempeño_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
